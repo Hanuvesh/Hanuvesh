@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanuvesh Singh</h1>
-<h3 align="center">A passionate Mern Stack developer and Student at Abesit</h3>
+<h3 align="center">A passionate Java developer and Student at Abesit</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanuvesh&label=Profile%20views&color=0e75b6&style=flat" alt="hanuvesh" /> </p>
 
